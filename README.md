@@ -1,5 +1,5 @@
 
-# Tutorial: Crear la Aplicación "Chirper" en Laravel 11
+# Tutorial: La Aplicación Chirper
 
 La aplicación **Chirper** es un clon básico de una red social estilo Twitter, diseñada para que los usuarios puedan publicar "chirps" (mensajes cortos).
 
